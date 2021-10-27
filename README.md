@@ -18,9 +18,9 @@
    ##
 
 <div> 
-  <a href="https://www.instagram.com/jheovanny_c/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/Jheovanny#3553" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href="https://www.linkedin.com/in/jheovanny-campos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.instagram.com/0_rafael_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="https://discord.gg/Rafael Moreira#8981" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  
  
   ![Snake animation](https://github.com/0rafaelMoreira/0rafaelMoreira/blob/output/github-contribution-grid-snake.svg)
  
